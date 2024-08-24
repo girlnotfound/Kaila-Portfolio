@@ -1,0 +1,106 @@
+:root {
+  --lavender: #d3d5fd;
+  --coolGrey: #929aab;
+  --gunmetalGrey: #474a56;
+  --almostBlack: #0b0b0d;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* app container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-height: 100vh;
+}
+
+/* header styles */
+header {
+  background-color: var(--lavender);
+  padding: 1rem;
+}
+
+/* navigation styles */
+nav {
+  background-color: var(--almostBlack);
+  padding: 1rem 0;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+nav ul li {
+  margin-left: 1rem;
+}
+
+nav ul li a,
+.nav-link {
+  color: var(--almostBlack);
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  display: block;
+  text-align: right;
+  transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover,
+.nav-link:hover {
+  background-color: var(--coolGrey);
+}
+
+/* main content area */
+.content-area {
+  padding: 2rem;
+  text-align: center;
+}
+
+/* footer styles */
+footer {
+  background-color: var(--lavender);
+  text-align: center;
+  padding: 1rem;
+  margin-top: auto;
+}
+
+.profile-image {
+  height: auto;
+  display: block;
+  margin: 3% auto;
+}
+
+/* responsive design */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav ul li {
+    margin: 0.5rem 0;
+  }
+
+  .nav-link {
+    text-align: center;
+  }
+}
