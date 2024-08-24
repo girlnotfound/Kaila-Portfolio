@@ -23,7 +23,7 @@ const projectData = [
   },
   {
     title: "Blog & Key",
-    image: "/images/Screenshot-BlogandKey",
+    image: "/images/Screenshot-BlogandKey.png",
     projectLink: "https://girlnotfound.github.io/Blog-and-Key/",
     githubLink: "https://github.com/girlnotfound/Blog-and-Key",
   },
