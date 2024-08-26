@@ -32,7 +32,7 @@ To install Kaila's Portfolio:
 
 [Link to Deployed Portfolio](https://kaila-portfolio.netlify.app/)
 
-![Screenshot of My Portfolio](./public/images/Screenshot-Kaila-Portfolio.png)
+![Screenshot of My Portfolio](./public/images/Screenshot-Portfolio.png)
 
 ## Credits
 
