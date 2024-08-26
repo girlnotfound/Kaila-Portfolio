@@ -27,6 +27,18 @@ const projectData = [
     projectLink: "https://girlnotfound.github.io/Blog-and-Key/",
     githubLink: "https://github.com/girlnotfound/Blog-and-Key",
   },
+  {
+    title: "PWA-EditorEase",
+    image: "/images/Screenshot-PWA-EditorEase.png",
+    projectLink: "https://pwa-editorease.onrender.com",
+    githubLink: "https://github.com/girlnotfound/PWA-EditorEase",
+  },
+  {
+    title: "Dev-Discussions",
+    image: "/images/Screenshot-Dev-Discussions.png",
+    projectLink: "https://dev-discussions.onrender.com",
+    githubLink: "https://github.com/girlnotfound/Dev-Discussions",
+  },
 ];
 
 // portfolio component
