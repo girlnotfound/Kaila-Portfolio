@@ -30,6 +30,8 @@ To install Kaila's Portfolio:
 
 - You will be redirected to the application: `http://localhost:3000/`
 
+[Link to Deployed Portfolio](https://kaila-portfolio.netlify.app/)
+
 ![Screenshot of My Portfolio](./public/images/Screenshot-Kaila-Portfolio.png)
 
 ## Credits

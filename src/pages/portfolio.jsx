@@ -12,7 +12,7 @@ const projectData = [
   {
     title: "Domain Hunter HQ",
     image: "/images/Screenshot-Domain-Hunter.png",
-    projectLink: "https://girlnotfound.github.io/Horiseon-Reimagined/",
+    projectLink: "https://girlnotfound.github.io/Domain-Hunter-HQ/",
     githubLink: "https://github.com/girlnotfound/Domain-Hunter-HQ",
   },
   {
