@@ -34,10 +34,10 @@ const projectData = [
     githubLink: "https://github.com/girlnotfound/PWA-EditorEase",
   },
   {
-    title: "Dev-Discussions",
-    image: "/images/Screenshot-Dev-Discussions.png",
-    projectLink: "https://dev-discussions.onrender.com",
-    githubLink: "https://github.com/girlnotfound/Dev-Discussions",
+    title: "Task Nest",
+    image: "/images/Screenshot-Task-Nest.png",
+    projectLink: "https://girlnotfound.github.io/Task-Nest/",
+    githubLink: "https://github.com/girlnotfound/Task-Nest",
   },
 ];
 
