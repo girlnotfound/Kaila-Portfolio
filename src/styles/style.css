@@ -88,6 +88,7 @@ nav ul li a:hover,
   font-family: "Arial", sans-serif;
   color: var(--gunmetalGrey);
   background-color: #f9f9f9;
+  border: 1px solid var(--lavender);
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -221,9 +222,27 @@ footer {
 }
 
 /* resume styles */
+.resume-container {
+  width: 70%;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: "Arial", sans-serif;
+  color: var(--gunmetalGrey);
+  background-color: #f9f9f9;
+  border: 1px solid var(--lavender);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
 .coming-soon-image {
   width: 500px;
   height: auto;
+}
+
+.skills-section ul {
+  list-style-type: none;
+  padding-left: 0;
 }
 
 /* responsive design */
