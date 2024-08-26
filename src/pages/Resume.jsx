@@ -11,7 +11,6 @@ function Resume() {
           alt="Coming Soon"
           className="coming-soon-image"
         />
-        <p>My resume is coming soon!</p>
       </div>
     </div>
   );
