@@ -24,6 +24,8 @@ To install Kaila's Portfolio:
 
 - Open the terminal and install the dependencies by running the command: `npm install`
 
+- Run the seed script, in the terminal run: `npm run seed`
+
 ## Usage
 
 - Start the application, in the terminal run the command: `npm start`
