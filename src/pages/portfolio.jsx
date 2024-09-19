@@ -4,6 +4,12 @@ import "../styles/style.css";
 // project data
 const projectData = [
   {
+    title: "Papercut Pals",
+    image: "/images/Screenshot-PapercutPals.png",
+    projectLink: "https://papercut-pals.onrender.com",
+    githubLink: "https://github.com/girlnotfound/PAPERCUT-PALS",
+  },
+  {
     title: "U-Plan-It",
     image: "/images/Screenshot-U-Plan-It.png",
     projectLink: "https://u-plan-it.onrender.com/login",
