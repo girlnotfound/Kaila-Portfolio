@@ -38,12 +38,13 @@ function Resume() {
         </section>
       </div>
       <div className="coming-soon">
-        <p>Downloadable Resume Coming Soon!</p>
-        <img
-          src="/images/Coming-Soon-Graphic.png"
-          alt="Coming Soon"
-          className="coming-soon-image"
-        />
+        <a
+          href="/resume.pdf"
+          download="Kaila-Ronquillo-FullStackDeveloper-Resume.pdf"
+          className="download-link"
+        >
+          Download My Resume!
+        </a>
       </div>
     </div>
   );
